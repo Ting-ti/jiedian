@@ -1,4 +1,4 @@
 # 华为手机
-SRC-IP-CIDR,192.168.0.134/32,🈲 禁用设备,no-resolve
+SRC-IP-CIDR,192.168.0.134/32,🈲 禁用设备
 # PS5
-SRC-IP-CIDR,192.168.0.126/32,🈲 禁用设备,no-resolve
+SRC-IP-CIDR,192.168.0.126/32,🈲 禁用设备
